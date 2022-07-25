@@ -70,7 +70,7 @@ export default function Example() {
               Proyectos
             </h2>
             <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              Aqui podras ver algunos de mis proyectos de los cuales e realizado
+            Aquí podrás ver algunos de los proyectos que eh realizado
             </p>
           </div>
           <div className="mt-10 gap-5">
