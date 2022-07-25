@@ -34,7 +34,7 @@ const features = [
     id: 4,
     name: "Veterinaria Pacientes",
     description:
-      "Aplicacion web, donde se puede llevar un seguimiento de lista de pacientes para una veterinaria, aplicaion funcional, hecha en React",
+      "Aplicacion web, donde se puede llevar un seguimiento de lista de pacientes para una veterinaria, aplicacion funcional, hecha en React.",
     link: "https://veterinaria-vite.vercel.app/",
     github: "https://github.com/caps-cl/veterinaria_vite",
   },
@@ -42,7 +42,7 @@ const features = [
     id: 5,
     name: "Criptomonedas API",
     description:
-      "Pagina web, donde puedes cotizar las primeras 100 critomonedas del mercado, consumiendo una API de coingecko",
+      "Pagina web, donde puedes cotizar las primeras 100 critomonedas del mercado, consumiendo una API de Coingecko.",
     link: "https://criptomonedas-vite-i7a8shqau-botusuario.vercel.app/",
     github: "https://github.com/caps-cl/criptomonedas-vite",
   },
@@ -50,10 +50,10 @@ const features = [
     id: 6,
     name: "Modern Website",
     description:
-      "Website moderna, donde se da a presentar una aplicacion de notas, solamente es estatica",
-    link: "https://criptomonedas-vite-i7a8shqau-botusuario.vercel.app/",
+      "Website moderna, donde se da a presentar una aplicacion de notas, solamente es una pagina web estatica.",
+    link: "https://modern-website-brown.vercel.app/",
     github:
-      "https://vercel.com/botusuario/modern-website/4TtR5SACp6DehfmYDsxotxNnUogc",
+      "https://github.com/caps-cl/modern_website",
   },
 ];
 
