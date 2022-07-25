@@ -60,17 +60,17 @@ const Navbar = () => {
         </li>
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
-            <span className="text-lg text-[#7dd3fc] pr-1">02.</span>Sobre Mi
+            <span className="text-lg text-[#7dd3fc] pr-1">02.</span> Sobre Mi
           </Link>
         </li>
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
-            <span className="text-lg text-[#7dd3fc] pr-1">03.</span>Habilidades
+            <span className="text-lg text-[#7dd3fc] pr-1">03.</span> Habilidades
           </Link>
         </li>
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="project" smooth={true} duration={500}>
-            <span className="text-lg text-[#7dd3fc] pr-1">04.</span>Proyectos
+            <span className="text-lg text-[#7dd3fc] pr-1">04.</span> Proyectos
           </Link>
         </li>
       </ul>
